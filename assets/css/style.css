@@ -140,4 +140,7 @@ article .icon {
     .contact-info-container img{
         width: 50px;
       }
+      #banner{
+        height: 100vh;
+      }
 } 
